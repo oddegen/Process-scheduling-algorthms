@@ -1,0 +1,5 @@
+/home/oddegen/Personal/Assignment/OS/build/CMakeFiles/strict_alteration.dir
+/home/oddegen/Personal/Assignment/OS/build/CMakeFiles/srts.dir
+/home/oddegen/Personal/Assignment/OS/build/CMakeFiles/rrs.dir
+/home/oddegen/Personal/Assignment/OS/build/CMakeFiles/edit_cache.dir
+/home/oddegen/Personal/Assignment/OS/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+Section D - Group 7
+
+1. Miraf Debebe - ETS1110/14
+2. Misganaw Tesfaye - ETS1112/14
+3. Natnael Abayneh - ETS1237/14
+4. Nahom Tensaebirhan - ETS1142/14
+5. Olbia Letta - ETS1314/14
+
+Questions:-
+Write a program that implements SRTS and RSS
+Implement strict alteration
+
+
+
+
